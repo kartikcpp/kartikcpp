@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Kartik+Saini!;Freelance+Deep+Learning+Engineer;Computer+Vision+%7C+Diffusion+Models;PyTorch+Research+Developer&center=true&size=28&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Kartik+Saini!;Deep+Learning+Engineer;Computer+Vision+%7C+Diffusion+Models;PyTorch+Research+Developer&center=true&size=28&pause=1000" />
 </h1>
 
 <p align="center">
